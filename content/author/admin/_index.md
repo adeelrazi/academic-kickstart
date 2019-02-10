@@ -1,16 +1,16 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Adeel Razi"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Senior Research Fellow and ARC DECRA Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Monash University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -49,22 +49,22 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:adeel.razi@monash.edu".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/adeelrazi"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=VG3onZwAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/razilab"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,6 +75,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Our lab develops data science techniques for brain mapping in health and disease. We are interested in modelling complex, high dimensional, network dynamics of brain structure and function using neuroimaging. We use our models to integrate empirical data from multiple modalities (e.g., fMRI and diffusion MRI) to investigate basic disease mechanisms in neurodegenerative diseases (e.g., Huntington’s disease, Alzheimer disease and Frontotemporal Dementia) and psychiatric disorders (e.g., Schizophrenia and Autism).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Before establishing this lab at Monash, Adeel worked as Senior Research Associate, from 2012 – 2018, at Wellcome Trust Centre for Neuroimaging (`The FIL’) of UCL where he was supervised by Karl Friston and Geraint Rees to develop brain connectivity (generative) models using functional neuroimaging. He also worked in close collaboration with Sarah Tabrizi and Jason Warren to investigate pathophysiology of various neurodegenerative diseases. These collaborations are now continuing with his appointment as an `Honorary’ Senior Research Associate at UCL. 
